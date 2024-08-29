@@ -1,0 +1,11 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Phumiput Foithong",
+        "email": "phumiput.12@gmail.com",
+        "password": "We555555S",
+        "gender": "Male"
+      }
+    ]
+  }
